@@ -1,0 +1,44 @@
+plugins {
+    id 'java'
+}
+
+repositories {
+    mavenLocal()
+    mavenCentral()
+}
+
+java {
+    sourceCompatibility=JavaVersion.valueOf("${javaVersion}")
+    targetCompatibility=JavaVersion.valueOf("${javaVersion}")
+    withSourcesJar()
+    withJavadocJar()
+}
+
+sourceSets {
+    main {
+        java {
+            exclude "**/.gitkeep"
+        }
+    }
+    test {
+       java {
+            exclude "**/.gitkeep"
+        }
+    }
+}
+
+compileJava {
+    options.encoding = 'UTF-8'
+}
+
+compileTestJava {
+    options.encoding = 'UTF-8'
+}
+
+test {
+    useJUnitPlatform()
+}
+
+dependencies{
+    implementation "org.slf4j:slf4j-api:${slf4jVersion}"
+}

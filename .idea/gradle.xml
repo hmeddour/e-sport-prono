@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/buildSrc" />
+            <option value="$PROJECT_DIR$/feature1" />
+            <option value="$PROJECT_DIR$/feature1/application" />
+            <option value="$PROJECT_DIR$/feature1/application/api" />
+            <option value="$PROJECT_DIR$/feature1/application/api-contract" />
+            <option value="$PROJECT_DIR$/feature1/application/broker" />
+            <option value="$PROJECT_DIR$/feature1/application/broker-contract" />
+            <option value="$PROJECT_DIR$/feature1/domain" />
+            <option value="$PROJECT_DIR$/feature1/domain/domain-contract" />
+            <option value="$PROJECT_DIR$/feature1/domain/domain-core" />
+            <option value="$PROJECT_DIR$/feature1/infrastructure" />
+            <option value="$PROJECT_DIR$/feature2" />
+            <option value="$PROJECT_DIR$/feature2/application" />
+            <option value="$PROJECT_DIR$/feature2/application/api" />
+            <option value="$PROJECT_DIR$/feature2/application/api-contract" />
+            <option value="$PROJECT_DIR$/feature2/application/broker" />
+            <option value="$PROJECT_DIR$/feature2/application/broker-contract" />
+            <option value="$PROJECT_DIR$/feature2/domain" />
+            <option value="$PROJECT_DIR$/feature2/domain/domain-contract" />
+            <option value="$PROJECT_DIR$/feature2/domain/domain-core" />
+            <option value="$PROJECT_DIR$/feature2/infrastructure" />
+            <option value="$PROJECT_DIR$/feature3" />
+            <option value="$PROJECT_DIR$/feature3/application" />
+            <option value="$PROJECT_DIR$/feature3/application/api" />
+            <option value="$PROJECT_DIR$/feature3/application/api-contract" />
+            <option value="$PROJECT_DIR$/feature3/application/broker" />
+            <option value="$PROJECT_DIR$/feature3/application/broker-contract" />
+            <option value="$PROJECT_DIR$/feature3/domain" />
+            <option value="$PROJECT_DIR$/feature3/domain/domain-contract" />
+            <option value="$PROJECT_DIR$/feature3/domain/domain-core" />
+            <option value="$PROJECT_DIR$/feature3/infrastructure" />
+            <option value="$PROJECT_DIR$/feature4" />
+            <option value="$PROJECT_DIR$/feature4/application" />
+            <option value="$PROJECT_DIR$/feature4/application/api" />
+            <option value="$PROJECT_DIR$/feature4/application/api-contract" />
+            <option value="$PROJECT_DIR$/feature4/application/broker" />
+            <option value="$PROJECT_DIR$/feature4/application/broker-contract" />
+            <option value="$PROJECT_DIR$/feature4/domain" />
+            <option value="$PROJECT_DIR$/feature4/domain/domain-contract" />
+            <option value="$PROJECT_DIR$/feature4/domain/domain-core" />
+            <option value="$PROJECT_DIR$/feature4/infrastructure" />
+            <option value="$PROJECT_DIR$/feature5" />
+            <option value="$PROJECT_DIR$/feature5/application" />
+            <option value="$PROJECT_DIR$/feature5/application/api" />
+            <option value="$PROJECT_DIR$/feature5/application/api-contract" />
+            <option value="$PROJECT_DIR$/feature5/application/broker" />
+            <option value="$PROJECT_DIR$/feature5/application/broker-contract" />
+            <option value="$PROJECT_DIR$/feature5/domain" />
+            <option value="$PROJECT_DIR$/feature5/domain/domain-contract" />
+            <option value="$PROJECT_DIR$/feature5/domain/domain-core" />
+            <option value="$PROJECT_DIR$/feature5/infrastructure" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

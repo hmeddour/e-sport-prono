@@ -1,0 +1,9 @@
+plugins {
+    id 'kata.common-java'
+}
+
+dependencies {
+    implementation project(':feature5:application:api-contract')
+    implementation project(':feature5:domain:domain-core')
+    implementation project(':feature5:infrastructure')
+}
