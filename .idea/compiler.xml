@@ -1,6 +1,148 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <bytecodeTargetLevel target="1.8" />
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.26/8f8cf0372abf564913e9796623aac4c8ea44025a/lombok-1.18.26.jar" />
+        </processorPath>
+        <module name="architecture-hexa-template.feature5.application.broker.test" />
+        <module name="architecture-hexa-template.feature3.infrastructure.main" />
+        <module name="architecture-hexa-template.feature3.domain.domain-contract.test" />
+        <module name="architecture-hexa-template.feature2.domain.domain-contract.main" />
+        <module name="architecture-hexa-template.feature3.domain.domain-core.test" />
+        <module name="architecture-hexa-template.feature1.domain.domain-core.main" />
+        <module name="architecture-hexa-template.feature2.application.broker.test" />
+        <module name="architecture-hexa-template.feature5.domain.domain-contract.test" />
+        <module name="architecture-hexa-template.feature2.application.api.test" />
+        <module name="architecture-hexa-template.feature1.application.api.main" />
+        <module name="architecture-hexa-template.feature2.infrastructure.main" />
+        <module name="architecture-hexa-template.feature2.application.api-contract.main" />
+        <module name="architecture-hexa-template.feature1.infrastructure.test" />
+        <module name="architecture-hexa-template.feature1.application.broker.main" />
+        <module name="architecture-hexa-template.feature4.domain.domain-contract.main" />
+        <module name="architecture-hexa-template.feature2.domain.domain-core.main" />
+        <module name="architecture-hexa-template.feature1.domain.domain-contract.test" />
+        <module name="architecture-hexa-template.feature2.application.api.main" />
+        <module name="architecture-hexa-template.feature5.domain.domain-core.test" />
+        <module name="architecture-hexa-template.feature2.application.broker-contract.main" />
+        <module name="architecture-hexa-template.feature1.application.api-contract.test" />
+        <module name="architecture-hexa-template.feature4.application.api-contract.test" />
+        <module name="architecture-hexa-template.feature4.application.broker-contract.main" />
+        <module name="architecture-hexa-template.feature3.application.api.test" />
+        <module name="architecture-hexa-template.feature1.infrastructure.main" />
+        <module name="architecture-hexa-template.feature3.application.api-contract.main" />
+        <module name="architecture-hexa-template.feature1.domain.domain-contract.main" />
+        <module name="architecture-hexa-template.feature5.application.api.main" />
+        <module name="architecture-hexa-template.feature2.infrastructure.test" />
+        <module name="architecture-hexa-template.feature3.application.broker.main" />
+        <module name="architecture-hexa-template.feature4.domain.domain-core.main" />
+        <module name="architecture-hexa-template.feature3.application.api-contract.test" />
+        <module name="architecture-hexa-template.feature1.application.broker.test" />
+        <module name="architecture-hexa-template.feature1.application.api-contract.main" />
+        <module name="architecture-hexa-template.feature2.domain.domain-core.test" />
+        <module name="architecture-hexa-template.feature3.application.broker-contract.test" />
+        <module name="architecture-hexa-template.feature4.application.broker-contract.test" />
+        <module name="architecture-hexa-template.feature2.application.broker-contract.test" />
+        <module name="architecture-hexa-template.feature5.application.broker-contract.test" />
+        <module name="architecture-hexa-template.feature5.application.api.test" />
+        <module name="architecture-hexa-template.feature5.infrastructure.main" />
+        <module name="architecture-hexa-template.feature3.application.api.main" />
+        <module name="architecture-hexa-template.feature4.application.api-contract.main" />
+        <module name="architecture-hexa-template.feature4.infrastructure.test" />
+        <module name="architecture-hexa-template.feature1.application.broker-contract.test" />
+        <module name="architecture-hexa-template.feature2.application.broker.main" />
+        <module name="architecture-hexa-template.feature4.application.broker.test" />
+        <module name="architecture-hexa-template.feature3.domain.domain-contract.main" />
+        <module name="architecture-hexa-template.feature3.infrastructure.test" />
+        <module name="architecture-hexa-template.feature5.application.broker.main" />
+        <module name="architecture-hexa-template.feature4.domain.domain-contract.test" />
+        <module name="architecture-hexa-template.feature4.domain.domain-core.test" />
+        <module name="architecture-hexa-template.feature1.application.api.test" />
+        <module name="architecture-hexa-template.feature3.application.broker.test" />
+        <module name="architecture-hexa-template.feature5.application.broker-contract.main" />
+        <module name="architecture-hexa-template.feature5.application.api-contract.main" />
+        <module name="architecture-hexa-template.feature5.infrastructure.test" />
+        <module name="architecture-hexa-template.feature4.application.api.main" />
+        <module name="architecture-hexa-template.feature4.application.broker.main" />
+        <module name="architecture-hexa-template.feature4.infrastructure.main" />
+        <module name="architecture-hexa-template.feature1.application.broker-contract.main" />
+        <module name="architecture-hexa-template.feature4.application.api.test" />
+        <module name="architecture-hexa-template.feature5.domain.domain-core.main" />
+        <module name="architecture-hexa-template.feature3.application.broker-contract.main" />
+        <module name="architecture-hexa-template.feature5.domain.domain-contract.main" />
+        <module name="architecture-hexa-template.feature3.domain.domain-core.main" />
+        <module name="architecture-hexa-template.feature2.domain.domain-contract.test" />
+        <module name="architecture-hexa-template.feature5.application.api-contract.test" />
+        <module name="architecture-hexa-template.feature1.domain.domain-core.test" />
+        <module name="architecture-hexa-template.feature2.application.api-contract.test" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="e-sport-prono.architecture-hexa-template.buildSrc" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.buildSrc.main" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.buildSrc.test" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature1.application.api" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature1.application.api.main" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature1.application.api.test" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature1.application.broker" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature1.application.broker.main" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature1.application.broker.test" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature1.domain.domain-core" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature1.domain.domain-core.main" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature1.domain.domain-core.test" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature1.infrastructure" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature1.infrastructure.main" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature1.infrastructure.test" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature2.application.api" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature2.application.api.main" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature2.application.api.test" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature2.application.broker" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature2.application.broker.main" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature2.application.broker.test" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature2.domain.domain-core" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature2.domain.domain-core.main" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature2.domain.domain-core.test" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature2.infrastructure" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature2.infrastructure.main" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature2.infrastructure.test" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature3.application.api" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature3.application.api.main" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature3.application.api.test" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature3.application.broker" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature3.application.broker.main" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature3.application.broker.test" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature3.domain.domain-core" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature3.domain.domain-core.main" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature3.domain.domain-core.test" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature3.infrastructure" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature3.infrastructure.main" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature3.infrastructure.test" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature4.application.api" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature4.application.api.main" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature4.application.api.test" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature4.application.broker" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature4.application.broker.main" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature4.application.broker.test" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature4.domain.domain-core" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature4.domain.domain-core.main" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature4.domain.domain-core.test" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature4.infrastructure" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature4.infrastructure.main" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature4.infrastructure.test" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature5.application.api" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature5.application.api.main" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature5.application.api.test" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature5.application.broker" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature5.application.broker.main" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature5.application.broker.test" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature5.domain.domain-core" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature5.domain.domain-core.main" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature5.domain.domain-core.test" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature5.infrastructure" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature5.infrastructure.main" target="17" />
+      <module name="e-sport-prono.architecture-hexa-template.feature5.infrastructure.test" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>

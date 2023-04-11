@@ -1,3 +1,16 @@
 plugins {
     id 'kata.common-java'
 }
+
+dependencies {
+    implementation project(path: ':feature1:domain:domain-contract')
+    implementation 'org.junit.jupiter:junit-jupiter:5.9.2'
+    implementation 'org.mockito:mockito-core:5.2.0'
+    implementation 'org.mockito:mockito-junit-jupiter:5.2.0'
+    implementation 'org.apache.commons:commons-lang3:3.0'
+    implementation 'org.assertj:assertj-core:3.24.2'
+}
+
+repositories {
+    mavenCentral()
+}
